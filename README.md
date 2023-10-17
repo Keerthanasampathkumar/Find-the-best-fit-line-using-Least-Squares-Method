@@ -74,7 +74,7 @@ print(Y_pred)
 ## plot graph
 
 plt.scatter(X,Y)
-plt.plot(X,Y_pred,color='green')
+plt.plot(X,Y_pred,color='blue')
 plt.show()  
 ```
 
