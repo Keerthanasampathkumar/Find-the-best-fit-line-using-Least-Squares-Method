@@ -1,3 +1,8 @@
+```c
+Developed by: KEERTHANA S
+RegisterNumber:  212222230066
+```
+
 # Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
@@ -18,9 +23,6 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program:
 ```c
-Developed by: KEERTHANA S
-RegisterNumber:  212222230066
-
 ## least square method
 
 import matplotlib.pyplot as plt
